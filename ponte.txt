@@ -1,0 +1,12 @@
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="Ponte D. Luis I"	
+https://lon.rtsp.me/xS1j5-fRwPgSQmaA2DDXkw/1647898747/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-1 tvg-logo="Pontee D. Luis I"
+https://lon.rtsp.me/q_1TUnoDRXYdXYUJ5RVsSg/1647898822/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-1 tvg-logo="PonteeE D. Luis I"
+https://lon.rtsp.me/uso8zWnokDu2KYJ6Ve-LEA/1647898937/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-1 tvg-logo="PonteeE. D. Luis I"
+https://lon.rtsp.me/jJRUuB7KCCl72dfVEmy2bA/1647899040/hls/bYTDANDA.m3u8?ip=188.37.216.66	
